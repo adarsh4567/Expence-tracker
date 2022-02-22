@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Expence-tracker/static/css/main.7177f595.chunk.css",
+    "main.js": "/Expence-tracker/static/js/main.618f8735.chunk.js",
+    "main.js.map": "/Expence-tracker/static/js/main.618f8735.chunk.js.map",
+    "runtime-main.js": "/Expence-tracker/static/js/runtime-main.ea90f85e.js",
+    "runtime-main.js.map": "/Expence-tracker/static/js/runtime-main.ea90f85e.js.map",
+    "static/css/2.f4c56af9.chunk.css": "/Expence-tracker/static/css/2.f4c56af9.chunk.css",
+    "static/js/2.fb5a2bb5.chunk.js": "/Expence-tracker/static/js/2.fb5a2bb5.chunk.js",
+    "static/js/2.fb5a2bb5.chunk.js.map": "/Expence-tracker/static/js/2.fb5a2bb5.chunk.js.map",
+    "index.html": "/Expence-tracker/index.html",
+    "static/css/2.f4c56af9.chunk.css.map": "/Expence-tracker/static/css/2.f4c56af9.chunk.css.map",
+    "static/css/main.7177f595.chunk.css.map": "/Expence-tracker/static/css/main.7177f595.chunk.css.map",
+    "static/js/2.fb5a2bb5.chunk.js.LICENSE.txt": "/Expence-tracker/static/js/2.fb5a2bb5.chunk.js.LICENSE.txt",
+    "static/media/added-image.png": "/Expence-tracker/static/media/added-image.94b293c9.png",
+    "static/media/education.png": "/Expence-tracker/static/media/education.f21be753.png",
+    "static/media/empty.png": "/Expence-tracker/static/media/empty.f575b5cb.png",
+    "static/media/food.png": "/Expence-tracker/static/media/food.7bf88c6f.png",
+    "static/media/healthcare.png": "/Expence-tracker/static/media/healthcare.d26b4326.png",
+    "static/media/shopping.png": "/Expence-tracker/static/media/shopping.b248386d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ea90f85e.js",
+    "static/css/2.f4c56af9.chunk.css",
+    "static/js/2.fb5a2bb5.chunk.js",
+    "static/css/main.7177f595.chunk.css",
+    "static/js/main.618f8735.chunk.js"
+  ]
+}
